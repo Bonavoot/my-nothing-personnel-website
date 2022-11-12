@@ -1,12 +1,10 @@
-const h2 = document.createElement("h2");
-h2.textContent = "This content added by JavaScript";
-
-
+// Light and Dark mode selectors
 const lightAndDarkMode = document.getElementById("lightAndDarkMode");
 const header = document.getElementById("header-text")
 const sunAndMoonImg = document.getElementById("")
 const names = document.getElementById("name");
 
+// Changes CSS color properties of selectors above
 lightAndDarkMode.addEventListener("click", () => {
 
     if(lightAndDarkMode.className === "sun"){
@@ -32,3 +30,4 @@ lightAndDarkMode.addEventListener("click", () => {
         lightAndDarkMode.className = "sun"
     }
 })
+
