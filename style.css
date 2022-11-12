@@ -2,10 +2,16 @@ body {
     background: rgb(30, 30, 30);
     margin: 0;
     color: white;
+    font-family: 'Trebuchet MS',  sans-serif;
+  }
+
+  header {
+    box-shadow: 0px 4px 4px 4px rgb(15, 15, 15);
   }
 
   #header-text{
     background-color: rgb(65, 65, 65);
+    color: black;
     margin-top: 0px;
     padding: 10px;
     text-align: left;
@@ -19,6 +25,11 @@ body {
     margin-bottom: 0;
   }
 
+  #name {
+    border-bottom: 1px solid white;
+    width: fit-content;
+  }
+
   #octocat {
     height: 45px;
     width: auto;
@@ -27,8 +38,24 @@ body {
     right: 20px;
   }
 
+  .sun {
+    position: absolute;
+    height: 35px;
+    top: 10px;
+    right: 100px;
+    cursor: pointer;
+  }
+
+  .moon {
+    position: absolute;
+    height: 35px;
+    top: 10px;
+    right: 100px;
+    cursor: pointer;
+  }
+
   .links-container {
-    
+    margin-top: 75px;
   }
 
   #git-link{
