@@ -1,3 +1,45 @@
 body {
-    background: blue;
+    background: rgb(30, 30, 30);
+    margin: 0;
+    color: white;
+  }
+
+  #header-text{
+    background-color: rgb(65, 65, 65);
+    margin-top: 0px;
+    padding: 10px;
+    text-align: left;
+  }
+
+  #me-and-dog {
+    height: 350px;
+    width: auto;
+    margin: 25px;
+    border: 10px solid rgb(65, 65, 65);
+    margin-bottom: 0;
+  }
+
+  #octocat {
+    height: 45px;
+    width: auto;
+    position: absolute;
+    top: 5px;
+    right: 20px;
+  }
+
+  .links-container {
+    
+  }
+
+  #git-link{
+    height: 45px;
+    margin-right: 10px;
+  }
+
+  #linkedin-link {
+    height: 45px;
+  }
+
+  .left {
+    padding-left: 35px;
   }
