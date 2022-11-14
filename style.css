@@ -25,6 +25,10 @@ header {
   margin-bottom: 0;
 }
 
+span {
+  color: rgb(71, 212, 255);
+}
+
 #name {
   border-bottom: 1px solid white;
   width: fit-content;
@@ -71,6 +75,8 @@ img[alt="Flatiron Logo"] {
   position: absolute;
   top: 50px;
   left: 325px;
+  opacity: 25%;
+  width: 1500px;
 }
 
 .left {
