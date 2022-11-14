@@ -1,72 +1,78 @@
 body {
-    background: rgb(30, 30, 30);
-    margin: 0;
-    color: white;
-    font-family: 'Trebuchet MS',  sans-serif;
-  }
+  background: rgb(30, 30, 30);
+  margin: 0;
+  color: white;
+  font-family: "Trebuchet MS", sans-serif;
+}
 
-  header {
-    box-shadow: 0px 4px 4px 4px rgb(15, 15, 15);
-  }
+header {
+  box-shadow: 0px 4px 4px 4px rgb(15, 15, 15);
+}
 
-  #header-text{
-    background-color: rgb(65, 65, 65);
-    color: black;
-    margin-top: 0px;
-    padding: 10px;
-    text-align: left;
-  }
+#header-text {
+  background-color: rgb(65, 65, 65);
+  color: black;
+  margin-top: 0px;
+  padding: 10px;
+  text-align: left;
+}
 
-  #me-and-dog {
-    height: 350px;
-    width: auto;
-    margin: 25px;
-    border: 10px solid rgb(65, 65, 65);
-    margin-bottom: 0;
-  }
+#me-and-dog {
+  height: 350px;
+  width: auto;
+  margin: 25px;
+  border: 10px solid rgb(65, 65, 65);
+  margin-bottom: 0;
+}
 
-  #name {
-    border-bottom: 1px solid white;
-    width: fit-content;
-  }
+#name {
+  border-bottom: 1px solid white;
+  width: fit-content;
+}
 
-  #octocat {
-    height: 45px;
-    width: auto;
-    position: absolute;
-    top: 5px;
-    right: 20px;
-  }
+#octocat {
+  height: 45px;
+  width: auto;
+  position: absolute;
+  top: 5px;
+  right: 20px;
+}
 
-  .sun {
-    position: absolute;
-    height: 35px;
-    top: 10px;
-    right: 100px;
-    cursor: pointer;
-  }
+.sun {
+  position: absolute;
+  height: 35px;
+  top: 10px;
+  right: 100px;
+  cursor: pointer;
+}
 
-  .moon {
-    position: absolute;
-    height: 35px;
-    top: 10px;
-    right: 100px;
-    cursor: pointer;
-  }
+.moon {
+  position: absolute;
+  height: 35px;
+  top: 10px;
+  right: 100px;
+  cursor: pointer;
+}
 
-  .links-container {
-    margin-top: 75px;
-  }
+.links-container {
+  margin-top: 75px;
+}
 
-  #git-link{
-    height: 45px;
-    margin-right: 10px;
-  }
+#git-link {
+  height: 45px;
+  margin-right: 10px;
+}
 
-  #linkedin-link {
-    height: 45px;
-  }
+#linkedin-link {
+  height: 45px;
+}
 
-  .left {
-    padding-left: 35px;
-  }
+img[alt="Flatiron Logo"] {
+  position: absolute;
+  top: 50px;
+  left: 325px;
+}
+
+.left {
+  padding-left: 35px;
+}

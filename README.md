@@ -1,6 +1,6 @@
 # My Personal Website
 
-website link: https://bonavoot.github.io/my-nothing-personnel-website/
+website link: https://bonavoot.github.io/my-virtual-business-card/
 
 Hello! Welcome to my personal site! This is a small demonstration of the HTML, CSS and JS I
 am capable of tying together to form a functioning website
