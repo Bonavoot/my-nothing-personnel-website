@@ -1,4 +1,4 @@
-# My Personal Website
+# My Virtual Business Card
 
 website link: https://bonavoot.github.io/my-virtual-business-card/
 

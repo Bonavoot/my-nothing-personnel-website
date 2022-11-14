@@ -24,9 +24,3 @@ lightAndDarkMode.addEventListener("click", () => {
     lightAndDarkMode.className = "sun";
   }
 });
-
-const sketchBoard = document.getElementById("sketch-board");
-
-function createSketchBoard() {
-  for (let i = 50; i < 1; i--) {}
-}
